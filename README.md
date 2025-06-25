@@ -4,21 +4,7 @@ LLM大模型初学者（零基础学习LLM、大模型从零入门、免费分�
 
 本文**主要**针对**零基础**想学习大模型的同行者。这篇文章由@黑羽 根据互联网资料各种收集整理而成，感谢互联网，感谢各位的分享。鸣谢！本套大模型教程会不断进行更新。
 
-## 一、学会使用搜索引擎，尤其是Google。推荐阅读文章
-
-[《如何用好Google搜索引擎？》](http://www.zhihu.com/question/20161362)知乎问答@崔凯
-
-[《高明的Google搜索技巧》](http://www.williamlong.info/archives/728.html) by-雪影蓝风
-
-[《如何用好Google》](http://wordpress.lixiaolai.com/archives/992.html) by-李笑来
-
-## 二、学会提问
-
-阅读推荐[《提问的智慧》](http://wiki.woodpecker.org.cn/moin/AskForHelp) by-啄木鸟社区
-
-[《提问的智慧》](https://gist.github.com/zer4tul/95ffaa741c836dc6ab3b)一定请读完！
-
-## 三、书籍推荐
+## 一、书籍推荐
 
 ### python书籍篇
 
@@ -39,17 +25,25 @@ LLM大模型初学者（零基础学习LLM、大模型从零入门、免费分�
 1. 请求推荐[阅读源码](https://github.com/wangshunping/read_requests)
 2. [《Python进阶》（中级Python中文版）](https://github.com/eastlakeside/interpy-zh)
 
-### 更多书籍推荐
+### 大模型书籍推荐
 
-1. **知乎问答**：[关于Python的经典入门书籍有哪些？](http://www.zhihu.com/question/19593179)
-2. **V2EX问答**：[文科生想学Python](http://www.v2ex.com/t/40397)
-3. [Python快速教程](http://www.cnblogs.com/vamei/archive/2012/09/13/2682778.html)
+1. **大模型书籍01**：[Llama大模型实践指南]([http://www.zhihu.com/question/19593179](https://mp.weixin.qq.com/s/qlChrxzM0FnUB-Mny63a_g))
+2. **大模型书籍02**：[大规模语言模型：从理论到实践（第2版）](https://mp.weixin.qq.com/s/Uefh2do-m9R-J6XWLMctSA)
+3. **大模型书籍03**： [从零开始构建大模型](http://www.cnblogs.com/vamei/archive/2012/09/13/2682778.html)
+4. **大模型书单**： [一条线速通大模型](https://mp.weixin.qq.com/s/Ks7j8rJDpJlZ3NviCwFu-g)
+   
 
 ## 四、视频推荐
 
-麻理工省公开课《计算机科学及编程导论》，该课程针对零基础者[网易公开课](http://v.163.com/special/opencourse/bianchengdaolun.html)。
+吴恩达大模型公开课，该课程针对基础稍好人群[吴恩达AndrewNg](https://space.bilibili.com/3546592940394904)
 
-课程介绍本课程适用于那些拥有**很少或没有编程经验** 的学生，它致力于使学生理解计算机在解决问题中的作用，并帮助学生掌握其 **专业**，使他们为能够完成有用的小程序的目标充满信心。
+李宏毅大模型公开课，该课程针对零基础者[生成式AI教程](https://www.bilibili.com/video/BV1hMRUYPEbJ)
+
+清华大模型公开课，从入门到实战[刘知远团队大模型公开课全网首发](https://www.bilibili.com/video/BV1UG411p7zv/?)
+
+斯坦福大学公开课，2025年春[从零开始的语言模型|CS336](https://www.bilibili.com/video/BV1Tc5QzyEor/)
+
+
 
 ## 五、学习方法
 
