@@ -27,7 +27,7 @@ LLM大模型初学者（零基础学习LLM、大模型从零入门、免费分�
 
 ### 大模型书籍推荐
 
-1. **大模型书籍01**：[Llama大模型实践指南]([http://www.zhihu.com/question/19593179](https://mp.weixin.qq.com/s/qlChrxzM0FnUB-Mny63a_g))
+1. **大模型书籍01**：[Llama大模型实践指南](https://mp.weixin.qq.com/s/qlChrxzM0FnUB-Mny63a_g)
 2. **大模型书籍02**：[大规模语言模型：从理论到实践（第2版）](https://mp.weixin.qq.com/s/Uefh2do-m9R-J6XWLMctSA)
 3. **大模型书籍03**： [从零开始构建大模型](http://www.cnblogs.com/vamei/archive/2012/09/13/2682778.html)
 4. **大模型书单**： [一条线速通大模型](https://mp.weixin.qq.com/s/Ks7j8rJDpJlZ3NviCwFu-g)
