@@ -14,6 +14,23 @@ LLM大模型初学者（零基础学习LLM、大模型从零入门、免费分�
 4. 推荐[《简明Python教程》](http://woodpecker.org.cn/abyteofpython_cn/chinese/)
 5. 推荐[《笨方法学Python（Learn Python The Hard Way）》](http://learn-python-the-hard-way-zh_cn-translation.readthedocs.org/en/1.0/)
 
+## 📚 推荐书单（按阶段）
+
+| 阶段       | 书籍名称                                                                 | 作者                    |
+| -------- | -------------------------------------------------------------------- | --------------------- |
+| 入门       | 《Python 编程：从入门到实践》                                                   | Eric Matthes          |
+| 基础       | 《流畅的 Python》                                                         | Luciano Ramalho       |
+| 中级       | 《Effective Python》                                                   | Brett Slatkin         |
+| 高级       | 《Fluent Python（第2版）》                                                 | Luciano Ramalho（即将出版） |
+| 数据分析     | 《Python for Data Analysis》                                           | Wes McKinney          |
+| 机器学习     | 《Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow》 | Aurélien Géron        |
+| 深度学习     | 《Deep Learning with PyTorch》                                         | Eli Stevens           |
+| NLP      | 《Natural Language Processing with Transformers》                      | Lewis Tunstall        |
+| Agent 开发 | 《LangChain Cookbook》                                                 | Harrison Chase        |
+| 办公自动化    | 《Automate the Boring Stuff with Python》                              | Al Sweigart           |
+
+* * *
+
 ### 还有其他编程语言基础
 
 1. 推荐[《Python基础教程》](http://book.douban.com/subject/4866934/)
